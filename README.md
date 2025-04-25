@@ -40,7 +40,7 @@ This project analyzes **coffee shop sales data** to uncover insights into custom
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/coffee-shop-sales.git
+   git clone https://github.com/ranasaurabh191/coffee-shop-sales.git
    ```
 2. Import the dataset into MySQL.
 3. Open **Power BI** and connect it to the MySQL database.
@@ -50,14 +50,3 @@ This project analyzes **coffee shop sales data** to uncover insights into custom
 ## 📢 Contributing
 Feel free to contribute by suggesting improvements, adding datasets, or enhancing visualizations. Fork the repository and submit a pull request!
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
-## 📬 Contact
-For any queries or collaborations, reach out via:
-📧 Email: your.email@example.com  
-🔗 LinkedIn: https://www.linkedin.com/feed/update/urn:li:ugcPost:7290408218739023874/
-
----
-
-**If you find this project useful, don't forget to ⭐ star the repository!** 🚀
